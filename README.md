@@ -47,4 +47,4 @@ This project reflects my ability to:
 ---
 
 ## 📬 Let's Connect
-Feel free to check my [LinkedIn profile]((https://www.linkedin.com/in/gokul-kumar-kesavan/)) or reach out to discuss this project or opportunities!
+Feel free to check my [LinkedIn profile](https://www.linkedin.com/in/gokul-kumar-kesavan/) or reach out to discuss this project or opportunities!
