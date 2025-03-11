@@ -28,29 +28,6 @@ The project explores multiple business scenarios and analytical decisions:
 
 ---
 
-## 📁 Repository Structure
-```
-📦 red-brand-canners-optimization
-│
-├── 📂 code
-│   ├── Q1_product_mix_basic_model.py
-│   ├── Q2_extra_grade_A_tomatoes.py
-│   ├── Q3_advertising_impact_analysis.py
-│   ├── Q4_expected_value_scenario_analysis.py
-│   ├── Q5_procurement_strategy_uncertainty.py
-│   └── Q6_fixed_cost_decision_model.py
-│
-├── 📂 results
-│   ├── sensitivity_reports_screenshots/
-│   ├── optimal_solution_outputs/
-│   └── final_profit_summary.xlsx
-│
-├── 📄 Optimization_Project_Summary.pdf
-└── 📄 README.md  ← (this file)
-```
-
----
-
 ## 📈 Key Results & Learnings
 - Achieved optimal production strategies and identified key binding constraints.
 - Quantified marginal value of resources using shadow prices.
@@ -70,4 +47,4 @@ This project reflects my ability to:
 ---
 
 ## 📬 Let's Connect
-Feel free to check my [LinkedIn profile](https://www.linkedin.com/) or reach out to discuss this project or opportunities!
+Feel free to check my [LinkedIn profile]((https://www.linkedin.com/in/gokul-kumar-kesavan/)) or reach out to discuss this project or opportunities!
