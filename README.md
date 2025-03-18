@@ -42,7 +42,7 @@ This project reflects my ability to:
 - Translate business requirements into mathematical models
 - Interpret model results for actionable business recommendations
 
-**If you're an employer, recruiter, or hiring manager—this project showcases my practical problem-solving approach and my readiness for roles in Business Analytics, Operations, or Decision Science.**
+**If you're an employer, recruiter, or hiring manager—this project showcases my practical problem-solving approach and my readiness for roles in Business Analytics, Operations, or Decision Science.** 
 
 ---
 
